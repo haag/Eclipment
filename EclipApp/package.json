@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@dnd-kit/core": "^4.0.1",
+    "@dnd-kit/sortable": "^5.0.0",
     "apexcharts": "^3.25.0",
     "axios": "^0.21.1",
     "chart.js": "2.9.4",
